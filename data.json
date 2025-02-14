@@ -1,0 +1,2008 @@
+{
+    "tools": {
+        "hammer": {
+            "name": "Hammer",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 3,
+                    "stone": 2
+                },
+                "craft": "player crafting menu"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "wood": 1,
+                    "stone": 1
+                },
+                "craft": "workbench 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "wood": 2,
+                    "stone": 2
+                },
+                "craft": "workbench 3"
+            }
+        },
+        "hoe": {
+            "name": "Hoe",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 5,
+                    "stone": 2
+                },
+                "craft": "workbench 1"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "wood": 1,
+                    "stone": 1
+                },
+                "craft": "workbench 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "wood": 2,
+                    "stone": 2
+                },
+                "craft": "workbench 3"
+            }
+        },
+        "cultivator": {
+            "name": "Cultivator",
+            "q1ingredients": {
+                "materials": {
+                    "core wood": 5,
+                    "bronze": 5
+                },
+                "craft": "forge 1"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "core wood": 1,
+                    "bronze": 1
+                },
+                "craft": "forge 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "core wood": 2,
+                    "bronze": 2
+                },
+                "craft": "forge 3"
+            }
+        },
+        "butcher_knife": {
+            "name": "Butcher knife",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 2,
+                    "tin": 4
+                },
+                "craft": "forge 1"
+            }
+        },
+        "stone_axe": {
+            "name": "Stone axe",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 5,
+                    "stone": 4
+                },
+                "craft": "player crafting menu"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "stone": 2
+                },
+                "craft": "workbench 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "stone": 4
+                },
+                "craft": "workbench 3"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "stone": 6
+                },
+                "craft": "workbench 4"
+            }
+        },
+        "flint_axe": {
+            "name": "Flint axe",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 4,
+                    "flint": 6
+                },
+                "craft": "workbench 1"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "flint": 3,
+                    "leather_scraps": 2
+                },
+                "craft": "workbench 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "flint": 6,
+                    "leather_scraps": 4
+                },
+                "craft": "workbench 3"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "flint": 9,
+                    "leather_scraps": 6
+                },
+                "craft": "workbench 4"
+            }
+        },
+        "bronze_axe": {
+            "name": "Bronze axe",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 4,
+                    "bronze": 8,
+                    "leather_scraps": 2
+                },
+                "craft": "forge 1"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "bronze": 4,
+                    "leather_scraps": 1
+                },
+                "craft": "forge 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "bronze": 8,
+                    "leather_scraps": 2
+                },
+                "craft": "forge 3"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "bronze": 12,
+                    "leather_scraps": 3
+                },
+                "craft": "forge 4"
+            }
+        },
+        "iron_axe": {
+            "name": "Iron axe",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 4,
+                    "iron": 20,
+                    "leather_scraps": 2
+                },
+                "craft": "forge 2"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "iron": 10,
+                    "leather_scraps": 1
+                },
+                "craft": "forge 3"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "iron": 20,
+                    "leather_scraps": 2
+                },
+                "craft": "forge 4"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "iron": 30,
+                    "leather_scraps": 3
+                },
+                "craft": "forge 5"
+            }
+        },
+        "black_metal_axe": {
+            "name": "Black metal axe",
+            "q1ingredients": {
+                "materials": {
+                    "fine_wood": 6,
+                    "black_metal": 20,
+                    "linen_thread": 5
+                },
+                "craft": "forge 4"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "black_metal": 10,
+                    "linen_thread": 5
+                },
+                "craft": "forge 5"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "black_metal": 20,
+                    "linen_thread": 10
+                },
+                "craft": "forge 6"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "black_metal": 30,
+                    "linen_thread": 15
+                },
+                "craft": "forge 7"
+            }
+        },
+        "antler_pickaxe": {
+            "name": "Antler pickaxe",
+            "q1ingredients": {
+                "materials": {
+                    "wood": 10,
+                    "hard_antler": 1
+                },
+                "craft": "workbench 1"
+            }
+        },
+        "bronze_pickaxe": {
+            "name": "Bronze pickaxe",
+            "q1ingredients": {
+                "materials": {
+                    "core_wood": 3,
+                    "bronze": 10
+                },
+                "craft": "forge 1"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "core_wood": 1,
+                    "bronze": 5
+                },
+                "craft": "forge 2"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "core_wood": 2,
+                    "bronze": 10
+                },
+                "craft": "forge 3"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "core_wood": 3,
+                    "bronze": 15
+                },
+                "craft": "forge 4"
+            }
+        },
+        "iron_pickaxe": {
+            "name": "Iron pickaxe",
+            "q1ingredients": {
+                "materials": {
+                    "core_wood": 3,
+                    "iron": 20
+                },
+                "craft": "forge 2"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "core_wood": 1,
+                    "bronze": 10
+                },
+                "craft": "forge 3"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "core_wood": 2,
+                    "bronze": 20
+                },
+                "craft": "forge 4"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "core_wood": 3,
+                    "bronze": 30
+                },
+                "craft": "forge 5"
+            }
+        },
+        "black_metal_pickaxe": {
+            "name": "Black metal pickaxe",
+            "q1ingredients": {
+                "materials": {
+                    "yggdrasil_wood": 3,
+                    "black_metal": 25
+                },
+                "craft": "forge 2"
+            },
+            "q2ingredients": {
+                "materials": {
+                    "yggdrasil_wood": 1,
+                    "black_metal": 15
+                },
+                "craft": "forge 3"
+            },
+            "q3ingredients": {
+                "materials": {
+                    "yggdrasil_wood": 2,
+                    "black_metal": 30
+                },
+                "craft": "forge 4"
+            },
+            "q4ingredients": {
+                "materials": {
+                    "yggdrasil_wood": 3,
+                    "black_metal": 45
+                },
+                "craft": "forge 5"
+            }
+        },
+        "tankard": {
+            "name": "Tankard",
+            "q1ingredients": {
+                "materials": {
+                    "fine_wood": 5,
+                    "resin": 2
+                },
+                "craft": "workbench 1"
+            }
+        },
+        "horn_of_celebration": {
+            "name": "Horn of Celebration",
+            "q1ingredients": {
+                "materials": {
+                    "bronze": 5,
+                    "iron": 2,
+                    "troll_hide": 2
+                },
+                "craft": "workbench 1"
+            }
+        },
+        "abyssal_harpoon": {
+            "name": "Abyssal harpoon",
+            "q1ingredients": {
+                "materials": {
+                    "fine_wood": 8,
+                    "chitin": 30,
+                    "leather_scraps": 3
+                },
+                "craft": "workbench 2"
+            }
+        }
+    },
+    "weapons": {
+        "axes": {
+            "one-handed": {
+                "stone_axe": {
+                    "name": "Stone axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 5,
+                            "stone": 4
+                        },
+                        "craft": "player crafting menu"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "stone": 2
+                        },
+                        "craft": "workbench 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "stone": 4
+                        },
+                        "craft": "workbench 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "stone": 6
+                        },
+                        "craft": "workbench 4"
+                    }
+                },
+                "flint_axe": {
+                    "name": "Flint axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 4,
+                            "flint": 6
+                        },
+                        "craft": "workbench 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flint": 3,
+                            "leather_scraps": 2
+                        },
+                        "craft": "workbench 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flint": 6,
+                            "leather_scraps": 4
+                        },
+                        "craft": "workbench 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flint": 9,
+                            "leather_scraps": 6
+                        },
+                        "craft": "workbench 4"
+                    }
+                },
+                "bronze_axe": {
+                    "name": "Bronze axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 4,
+                            "bronze": 8,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "bronze": 4,
+                            "leather_scraps": 1
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "bronze": 8,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "bronze": 12,
+                            "leather_scraps": 3
+                        },
+                        "craft": "forge 4"
+                    }
+                },
+                "iron_axe": {
+                    "name": "Iron axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 4,
+                            "iron": 20,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "iron": 10,
+                            "leather_scraps": 1
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "iron": 20,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "iron": 30,
+                            "leather_scraps": 3
+                        },
+                        "craft": "forge 5"
+                    }
+                },
+                "black_metal_axe": {
+                    "name": "Black metal axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "fine_wood": 6,
+                            "black_metal": 20,
+                            "linen_thread": 5
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "black_metal": 10,
+                            "linen_thread": 5
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "black_metal": 20,
+                            "linen_thread": 10
+                        },
+                        "craft": "forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "black_metal": 30,
+                            "linen_thread": 15
+                        },
+                        "craft": "forge 7"
+                    }
+                },
+                "jotun_bane": {
+                    "name": "Jotun Bane",
+                    "q1ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 5,
+                            "iron": 15,
+                            "bilebag": 3,
+                            "refined_eitr": 10
+                        },
+                        "craft": "black forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "iron": 10,
+                            "bilebag": 1,
+                            "refined_eitr": 1
+                        },
+                        "craft": "black forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "iron": 20,
+                            "bilebag": 2,
+                            "refined_eitr": 2
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "iron": 30,
+                            "bilebag": 3,
+                            "refined_eitr": 3
+                        },
+                        "craft": "black forge 4"
+                    }
+                }
+            },
+            "two-handed": {
+                "battleaxe": {
+                    "name": "Battleaxe",
+                    "q1ingredients": {
+                        "materials": {
+                            "ancient_bark": 30,
+                            "iron": 35,
+                            "leather_scraps": 4
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "ancient_bark": 5,
+                            "iron": 15
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "ancient_bark": 10,
+                            "iron": 30
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "ancient_bark": 15,
+                            "iron": 45
+                        },
+                        "craft": "forge 5"
+                    }
+                },
+                "crystal_battleaxe": {
+                    "name": "Crystal battleaxe",
+                    "q1ingredients": {
+                        "materials": {
+                            "ancient_bark": 30,
+                            "silver": 35,
+                            "crystal": 4
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "ancient_bark": 5,
+                            "silver": 15
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "ancient_bark": 10,
+                            "silver": 30
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "ancient_bark": 15,
+                            "silver": 45
+                        },
+                        "craft": "forge 6"
+                    }
+                }
+            },
+            "dual_wielded": {
+                "berserkir_axes": {
+                    "name": "Berserkir axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "charred_bone": 15,
+                            "flametal": 24,
+                            "asksvin_hide": 3
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "asksvin_hide": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "asksvin_hide": 2
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 45,
+                            "asksvin_hide": 3
+                        },
+                        "craft": "black forge 6"
+                    }
+                },
+                "bleeding_berserkir_axes": {
+                    "name": "Bleeding Berserkir axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "berserkir_axes": 1,
+                            "flametal": 5,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 5,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 10,
+                            "bloodstone": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "bloodstone": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "thundering_berserkir_axes": {
+                    "name": "Thundering Berserkir axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "berserkir_axes": 1,
+                            "flametal": 5,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 5,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 10,
+                            "iolite": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "iolite": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "primal_berserkir_axes": {
+                    "name": "Primal Berserkir axe",
+                    "q1ingredients": {
+                        "materials": {
+                            "berserkir_axes": 1,
+                            "flametal": 5,
+                            "jade": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 5,
+                            "jade": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 10,
+                            "jade": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "jade": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                }
+            }
+        },
+        "clubs":{
+            "one-handed": {
+                "torch": {
+                    "name": "Torch",
+                    "q1ingredients": {
+                        "materials": {
+                            "berserkir_axes": 1,
+                            "flametal": 5,
+                            "jade": 1
+                        },
+                        "craft": "player crafting menu"
+                    }
+                },
+                "club": {
+                    "name": "Club",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 6
+                        },
+                        "craft": "player crafting menu"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "bone_fragments": 5
+                        },
+                        "craft": "workbench 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "bone_fragments": 10
+                        },
+                        "craft": "workbench 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "bone_fragments": 15
+                        },
+                        "craft": "workbench 4"
+                    }
+                },
+                "bronze_mace": {
+                    "name": "Bronze mace",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 4,
+                            "bronze": 8,
+                            "leather_scraps": 3
+                        },
+                        "craft": "forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "bronze": 4
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "bronze": 8
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "bronze": 12
+                        },
+                        "craft": "forge 4"
+                    }
+                },
+                "iron_mace": {
+                    "name": "Iron mace",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 4,
+                            "iron": 20,
+                            "leather_scraps": 3
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "iron": 10
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "iron": 20
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "iron": 30
+                        },
+                        "craft": "forge 5"
+                    }
+                },
+                "frostner": {
+                    "name": "Frostner",
+                    "q1ingredients": {
+                        "materials": {
+                            "ancient_bark": 10,
+                            "silver": 30,
+                            "ymir_flesh": 5,
+                            "freeze_gland": 5
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "silver": 15
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "silver": 30
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "silver": 45
+                        },
+                        "craft": "forge 6"
+                    }
+                },
+                "porcupine": {
+                    "name": "Porcupine",
+                    "q1ingredients": {
+                        "materials": {
+                            "fine_wood": 5,
+                            "iron": 20,
+                            "needle": 5,
+                            "linen_thread": 10
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "iron": 2,
+                            "needle": 2
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "iron": 4,
+                            "needle": 4
+                        },
+                        "craft": "forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "iron": 6,
+                            "needle": 6
+                        },
+                        "craft": "forge 7"
+                    }
+                },
+                "flametal_mace": {
+                    "name": "Flametal mace",
+                    "q1ingredients": {
+                        "materials": {
+                            "charred_bone": 10,
+                            "flametal": 15,
+                            "sulfur": 5,
+                            "asksvin_hide": 3
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "charred_bone": 5,
+                            "flametal": 8,
+                            "sulfur": 3,
+                            "asksvin_hide": 2
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "charred_bone": 10,
+                            "flametal": 16,
+                            "sulfur": 6,
+                            "asksvin_hide": 4
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "charred_bone": 15,
+                            "flametal": 24,
+                            "sulfur": 9,
+                            "asksvin_hide": 6
+                        },
+                        "craft": "black forge 6"
+                    }
+                },
+                "bloodgeon": {
+                    "name": "Bloodgeon",
+                    "q1ingredients": {
+                        "materials": {
+                            "flametal_mace": 1,
+                            "flametal": 8,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 8,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 16,
+                            "bloodstone": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 24,
+                            "bloodstone": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "storm_star": {
+                    "name": "Storm star",
+                    "q1ingredients": {
+                        "materials": {
+                            "berserkir_axes": 1,
+                            "flametal": 8,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 8,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 16,
+                            "iolite": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 24,
+                            "iolite": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "klossen": {
+                    "name": "Klossen",
+                    "q1ingredients": {
+                        "materials": {
+                            "berserkir_axes": 1,
+                            "flametal": 8,
+                            "jade": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 8,
+                            "jade": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 16,
+                            "jade": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 24,
+                            "jade": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                }
+            },
+            "two-handed": {
+                "stagbreaker": {
+                    "name": "Stagbreaker",
+                    "q1ingredients": {
+                        "materials": {
+                            "core wood": 20,
+                            "deer_trophy": 5,
+                            "leather_scraps": 2
+                        },
+                        "craft": "workbench 2"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "core wood": 5,
+                            "deer_trophy": 2,
+                            "leather_scraps": 1,
+                            "bone_fragments": 10
+                        },
+                        "craft": "workbench 3"
+
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "core wood": 10,
+                            "deer_trophy": 4,
+                            "leather_scraps": 2,
+                            "bone_fragments": 20
+                        },
+                        "craft": "workbench 4"
+
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "core wood": 15,
+                            "deer_trophy": 6,
+                            "leather_scraps": 3,
+                            "bone_fragments": 30
+                        },
+                        "craft": "workbench 5"
+
+                    }
+                },
+                "iron_sledge": {
+                    "name": "Iron sledge",
+                    "q1ingredients": {
+                        "materials": {
+                            "ancient_bark": 10,
+                            "iron": 30,
+                            "ymir_flesh": 4,
+                            "draugr_elite_trophy": 1
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "ancient_bark": 2,
+                            "iron": 15,
+                            "ymir_flesh": 2
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "ancient_bark": 4,
+                            "iron": 30,
+                            "ymir_flesh": 4
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "ancient_bark": 6,
+                            "iron": 45,
+                            "ymir_flesh": 6
+                        },
+                        "craft": "forge 5"
+                    }
+                },
+                "demolisher": {
+                    "name": "Demolisher",
+                    "q1ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 10,
+                            "iron": 20,
+                            "refined_eitr": 10
+                        },
+                        "craft": "black forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 2,
+                            "iron": 15,
+                            "refined_eitr": 2
+                        },
+                        "craft": "black forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 4,
+                            "iron": 30,
+                            "refined_eitr": 4
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 6,
+                            "iron": 45,
+                            "refined_eitr": 6
+                        },
+                        "craft": "black forge 4"
+                    }
+                }
+            }
+        },
+        "swords": {
+            "one-handed": {
+                "bronze_sword": {
+                    "name": "Bronze sword",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "bronze": 8,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "wood": 1,
+                            "bronze": 4,
+                            "leather_scraps": 1
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "bronze": 8,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "wood": 3,
+                            "bronze": 12,
+                            "leather_scraps": 3
+                        },
+                        "craft": "forge 4"
+                    }
+                },
+                "iron_sword": {
+                    "name": "Iron sword",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "iron": 20,
+                            "leather_scraps": 3
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "wood": 1,
+                            "iron": 10,
+                            "leather_scraps": 2
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "iron": 20,
+                            "leather_scraps": 4
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "wood": 3,
+                            "iron": 30,
+                            "leather_scraps": 6
+                        },
+                        "craft": "forge 5"
+                    }
+                },
+                "silver_sword": {
+                    "name": "Silver sword",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "silver": 40,
+                            "leather_scraps": 3,
+                            "iron": 5
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "wood": 1,
+                            "silver": 20,
+                            "leather_scraps": 1,
+                            "iron": 3
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "silver": 40,
+                            "leather_scraps": 2,
+                            "iron": 6
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "wood": 3,
+                            "silver": 60,
+                            "leather_scraps": 3,
+                            "iron": 9
+                        },
+                        "craft": "forge 6"
+                    }
+                },
+                "black_metal_sword": {
+                    "name": "Black metal sword",
+                    "q1ingredients": {
+                        "materials": {
+                            "fine_wood": 2,
+                            "black_metal": 20,
+                            "linen_thread": 5
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "black_metal": 10,
+                            "linen_thread": 5
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "black_metal": 20,
+                            "linen_thread": 10
+                        },
+                        "craft": "forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "black_metal": 30,
+                            "linen_thread": 15
+                        },
+                        "craft": "forge 7"
+                    }
+                },
+                "mistwalker": {
+                    "name": "Mistwalker",
+                    "q1ingredients": {
+                        "materials": {
+                            "fine_wood": 3,
+                            "iron": 15,
+                            "refined_eitr": 10,
+                            "wisp": 3
+                        },
+                        "craft": "black forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "iron": 10,
+                            "refined_eitr": 5,
+                            "wisp": 1
+                        },
+                        "craft": "black forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "iron": 20,
+                            "refined_eitr": 10,
+                            "wisp": 2
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "iron": 30,
+                            "refined_eitr": 15,
+                            "wisp": 3
+                        },
+                        "craft": "black forge 4"
+                    }
+                },
+                "nidhogg": {
+                    "name": "Nidhögg",
+                    "q1ingredients": {
+                        "materials": {
+                            "charred_bone": 3,
+                            "flametal": 12,
+                            "asksvin_hide": 2
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 10,
+                            "asksvin_hide": 2
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 20,
+                            "asksvin_hide": 4
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "asksvin_hide": 6
+                        },
+                        "craft": "black forge 6"
+                    }
+                },
+                "nidhogg_the_bleeding": {
+                    "name": "Nidhögg the Bleeding",
+                    "q1ingredients": {
+                        "materials": {
+                            "nidhogg": 1,
+                            "flametal": 6,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 6,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 12,
+                            "bloodstone": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 18,
+                            "bloodstone": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "nidhogg_the_thundering": {
+                    "name": "Nidhögg the Thundering",
+                    "q1ingredients": {
+                        "materials": {
+                            "nidhogg": 1,
+                            "flametal": 6,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 6,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 12,
+                            "iolite": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 18,
+                            "iolite": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "nidhögg_the_primal": {
+                    "name": "Nidhögg the Primal",
+                    "q1ingredients": {
+                        "materials": {
+                            "nidhogg": 1,
+                            "flametal": 6,
+                            "jade": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 6,
+                            "jade": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 12,
+                            "jade": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 18,
+                            "jade": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "dyrnwyn": {
+                    "name": "Dyrnwyn",
+                    "q1ingredients": {
+                        "materials": {
+                            "dyrnwyn_hilt_fragment": 1,
+                            "dyrnwyn_blade_fragment": 1,
+                            "dyrnwyn_tip_fragment": 1,
+                            "flametal": 20,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 10,
+                            "jade": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 20,
+                            "jade": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "jade": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                }
+            },
+            "two-handed": {
+                "krom": {
+                    "name": "Krom",
+                    "q1ingredients": {
+                        "materials": {
+                            "iron": 30,
+                            "bronze": 20,
+                            "scale_hide": 5
+                        },
+                        "craft": "black forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "iron": 15,
+                            "bronze": 10,
+                            "scale_hide": 5
+                        },
+                        "craft": "black forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "iron": 30,
+                            "bronze": 20,
+                            "scale_hide": 10
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "iron": 45,
+                            "bronze": 30,
+                            "scale_hide": 15
+                        },
+                        "craft": "black forge 4"
+                    }
+                },
+                "slayer": {
+                    "name": "Slayer",
+                    "q1ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "morgen_sinew": 12,
+                            "asksvin_hide": 5
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "morgen_sinew": 3,
+                            "asksvin_hide": 5
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "morgen_sinew": 6,
+                            "asksvin_hide": 10
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 45,
+                            "morgen_sinew": 9,
+                            "asksvin_hide": 15
+                        },
+                        "craft": "black forge 6"
+                    }
+                },
+                "brutal_slayer": {
+                    "name": "Brutal Slayer",
+                    "q1ingredients": {
+                        "materials": {
+                            "slayer": 1,
+                            "flametal": 15,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "bloodstone": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 45,
+                            "bloodstone": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "scourging_slayer": {
+                    "name": "Scourging Slayer",
+                    "q1ingredients": {
+                        "materials": {
+                            "slayer": 1,
+                            "flametal": 15,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "iolite": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 45,
+                            "iolite": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "primal_slayer": {
+                    "name": "Primal Slayer",
+                    "q1ingredients": {
+                        "materials": {
+                            "slayer": 1,
+                            "flametal": 15,
+                            "jade": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 15,
+                            "jade": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 30,
+                            "jade": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 45,
+                            "jade": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                }
+            }
+        },
+        "spears": {
+            "flint_spear": {
+                    "name": "Flint spear",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 5,
+                            "flint": 10,
+                            "leather_scraps": 2
+                        },
+                        "craft": "workbench 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "wood": 3,
+                            "flint": 5,
+                            "leather_scraps": 1
+                        },
+                        "craft": "workbench 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "wood": 6,
+                            "flint": 10,
+                            "leather_scraps": 2
+                        },
+                        "craft": "workbench 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "wood": 9,
+                            "flint": 15,
+                            "leather_scraps": 3
+                        },
+                        "craft": "workbench 4"
+                    }
+                },
+            "bronze_spear": {
+                    "name": "Bronze spear",
+                    "q1ingredients": {
+                        "materials": {
+                            "wood": 5,
+                            "bronze": 6,
+                            "deer_hide": 2
+                        },
+                        "craft": "forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "wood": 3,
+                            "bronze": 4,
+                            "deer_hide": 1
+                        },
+                        "craft": "forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "wood": 6,
+                            "bronze": 8,
+                            "deer_hide": 2
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "wood": 9,
+                            "bronze": 12,
+                            "deer_hide": 3
+                        },
+                        "craft": "forge 4"
+                    }
+                },
+                "ancient_bark_spear": {
+                    "name": "Ancient bark spear",
+                    "q1ingredients": {
+                        "materials": {
+                            "troll_hide": 4,
+                            "iron": 10,
+                            "ancient_bark": 10
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "wood": 1,
+                            "iron": 5,
+                            "leather_scraps": 5
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "wood": 2,
+                            "iron": 10,
+                            "leather_scraps": 10
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "wood": 3,
+                            "iron": 15,
+                            "leather_scraps": 15
+                        },
+                        "craft": "forge 6"
+                    }
+                },
+                "fang_spear": {
+                    "name": "Fang spear",
+                    "q1ingredients": {
+                        "materials": {
+                            "ancient_bark": 10,
+                            "wolf_fang": 4,
+                            "leather_scraps": 2,
+                            "silver": 2
+                        },
+                        "craft": "forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "ancient_bark": 5,
+                            "wolf_fang": 2,
+                            "leather_scraps": 1,
+                            "silver": 1
+                        },
+                        "craft": "forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "ancient_bark": 10,
+                            "wolf_fang": 4,
+                            "leather_scraps": 2,
+                            "silver": 2
+                        },
+                        "craft": "forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "ancient_bark": 15,
+                            "wolf_fang": 6,
+                            "leather_scraps": 3,
+                            "silver": 3
+                        },
+                        "craft": "forge 6"
+                    }
+                },
+                "carapace_spear": {
+                    "name": "Carapace spear",
+                    "q1ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 10,
+                            "carapace": 4,
+                            "mandible": 2
+                        },
+                        "craft": "black forge 1"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 5,
+                            "carapace": 4,
+                            "mandible": 1
+                        },
+                        "craft": "black forge 2"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 10,
+                            "carapace": 8,
+                            "mandible": 2
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "yggdrasil_wood": 15,
+                            "carapace": 12,
+                            "mandible": 3
+                        },
+                        "craft": "black forge 4"
+                    }
+                },
+                "splitnir": {
+                    "name": "Splitnir",
+                    "q1ingredients": {
+                        "materials": {
+                            "ashwood": 10,
+                            "flametal": 6,
+                            "asksvin_hide": 2,
+                            "bonemaw_tooth": 3
+                        },
+                        "craft": "black forge 3"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "ashwood": 5,
+                            "flametal": 6,
+                            "asksvin_hide": 1,
+                            "bonemaw_tooth": 3
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "ashwood": 10,
+                            "flametal": 12,
+                            "asksvin_hide": 2,
+                            "bonemaw_tooth": 6
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "ashwood": 15,
+                            "flametal": 18,
+                            "asksvin_hide": 3,
+                            "bonemaw_tooth": 9
+                        },
+                        "craft": "black forge 6"
+                    }
+                },
+                "splitnir_the_bleeding": {
+                    "name": "Splitnir the Bleeding",
+                    "q1ingredients": {
+                        "materials": {
+                            "nidhogg": 1,
+                            "flametal": 6,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 6,
+                            "bloodstone": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 12,
+                            "bloodstone": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 18,
+                            "bloodstone": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "splitnir_the_thundering": {
+                    "name": "Splitnir the Thundering",
+                    "q1ingredients": {
+                        "materials": {
+                            "nidhogg": 1,
+                            "flametal": 6,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 6,
+                            "iolite": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 12,
+                            "iolite": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 18,
+                            "iolite": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                },
+                "splitnir_the_primal": {
+                    "name": "Splitnir the Primal",
+                    "q1ingredients": {
+                        "materials": {
+                            "nidhogg": 1,
+                            "flametal": 6,
+                            "jade": 1
+                        },
+                        "craft": "black forge 4"
+                    },
+                    "q2ingredients": {
+                        "materials": {
+                            "flametal": 6,
+                            "jade": 1
+                        },
+                        "craft": "black forge 5"
+                    },
+                    "q3ingredients": {
+                        "materials": {
+                            "flametal": 12,
+                            "jade": 2
+                        },
+                        "craft": "black forge 6"
+                    },
+                    "q4ingredients": {
+                        "materials": {
+                            "flametal": 18,
+                            "jade": 3
+                        },
+                        "craft": "black forge 7"
+                    }
+                }
+        }
+    }
+}
